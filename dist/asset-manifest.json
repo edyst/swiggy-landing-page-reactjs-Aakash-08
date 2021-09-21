@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab6ff315.chunk.css",
+    "main.js": "/static/js/main.0ea0683a.chunk.js",
+    "main.js.map": "/static/js/main.0ea0683a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0121027b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0121027b.js.map",
+    "static/js/2.1ec56b30.chunk.js": "/static/js/2.1ec56b30.chunk.js",
+    "static/js/2.1ec56b30.chunk.js.map": "/static/js/2.1ec56b30.chunk.js.map",
+    "static/js/3.19020efe.chunk.js": "/static/js/3.19020efe.chunk.js",
+    "static/js/3.19020efe.chunk.js.map": "/static/js/3.19020efe.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ab6ff315.chunk.css.map": "/static/css/main.ab6ff315.chunk.css.map",
+    "static/js/2.1ec56b30.chunk.js.LICENSE.txt": "/static/js/2.1ec56b30.chunk.js.LICENSE.txt",
+    "static/media/head.css": "/static/media/Lunch.f2f26689.jpeg",
+    "static/media/Swiggy_logo.88e6528c.png": "/static/media/Swiggy_logo.88e6528c.png",
+    "static/media/rsec1.5c564601.png": "/static/media/rsec1.5c564601.png",
+    "static/media/rsec2.8c94aa21.png": "/static/media/rsec2.8c94aa21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0121027b.js",
+    "static/js/2.1ec56b30.chunk.js",
+    "static/css/main.ab6ff315.chunk.css",
+    "static/js/main.0ea0683a.chunk.js"
+  ]
+}
